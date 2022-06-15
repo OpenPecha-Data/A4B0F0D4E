@@ -1,0 +1,19 @@
+segment_sources:
+  I80CBA1E0:
+    type: origin_type
+    relation: translation
+    language: en
+  I48DE5E6D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f2ea0dc503264cd3bb186a34fcbaa819:
+    I80CBA1E0: ad6226a5a2984bf39df3d11def4c3ac6
+    I48DE5E6D: 172afade1df44c649d0f35a501a47925
+  460bcb0586354ec286835bcb67f51c24:
+    I80CBA1E0: b61cdd536a85411eae3e3bc6560a7945
+    I48DE5E6D: 0be5d83e560a44fbac05c523da375170
+  c32d62587c424fee8325918627f2c477:
+    I80CBA1E0: 9172c67323e5468aab101c3cd5e2da68
+    I48DE5E6D: 0ec00cbe96dd4e8a98e78d79e01a9f6e
